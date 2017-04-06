@@ -1,7 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
 
-include(cmake/DetectVersion.cmake)
-
 project(Catch VERSION 1.8.2)
 
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
